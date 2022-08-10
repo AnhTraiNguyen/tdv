@@ -5,7 +5,7 @@ Always | Usually | Sometime
 * Device model: Windows 10 Pro
 * OS version: n/a
 * Software version:
-* Browser version: Chrom 12.30
+* Browser version: Chrome 104.0.5112.81
 * Environment: DEV | STG | PROD
 * Account: kddidemovn@gmail.com (pw: 123456789)
 
